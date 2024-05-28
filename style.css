@@ -1,0 +1,36 @@
+body{
+    background-color: #000000;
+}
+h1{
+    color: #fff;
+    text-align: center;
+position: relative;
+top: 5em;
+right: 1em;
+
+}
+#main{
+    display: flex;
+    /* align-items: center; */
+margin-top: 12em;
+    justify-content: center;
+}
+input{
+    border-radius: 2em;
+    height: 3em;
+    width: 20em;
+    text-align: center;
+}
+.button{
+ 
+    position: relative;
+    top: 4em;
+    right: 11em;
+
+}
+button{
+    background-color: blue;
+    border-radius: 2em;
+    border: 2px solid blue;
+    color: #fff;
+}
